@@ -32,7 +32,7 @@ jobs:
       #   run: |
       #     echo Add other actions to build,
       #     echo test, and deploy your project.
-  node.jobs:
+  node-jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
